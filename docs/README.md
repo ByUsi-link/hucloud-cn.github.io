@@ -41,3 +41,42 @@
 
 1. [data.json文件的写法](https://www.hucl.link/help/?file=md%2FBySi%E6%B8%B8%E6%88%8F%E6%A0%B8%E5%BF%83%2Fdata.json%E6%96%87%E4%BB%B6%E7%9A%84%E5%86%99%E6%B3%95.md)
 2. [游戏核心的基本使用方法](https://www.hucl.link/help/?file=md%2FBySi%E6%B8%B8%E6%88%8F%E6%A0%B8%E5%BF%83%2F%E6%B8%B8%E6%88%8F%E6%A0%B8%E5%BF%83%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95.md)
+
+---
+
+# 特殊内容
+## 📜 版权声明
+
+&copy; 2023-至今 飓云盘/BySi  
+[湘ICP备2024047986号-1](https://beian.miit.gov.cn/)
+
+---
+
+## 📢 加入官群
+
+欢迎加入飓云盘综合交流群，与更多用户互动哦！喵~  
+[点击加入飓云综合交流群](https://qm.qq.com/cgi-bin/qm/qr?k=HiWfHBGfnn4W72181yvz0o4LleP6pyXU&jump_from=webapi&authKey=L+kTw8YbhSfCWE209EWS6MU6F+uLbystq6FDbW1hE5NwO1hg+BhCFTl9ckilZTNU)
+
+---
+
+## 🔗 友情链接
+
+- [星河frp](http://xhfrp.xhuzim.top/)
+
+---
+
+## 🎥 视频/音频 链接
+<details>
+
+<summary>查看详细信息</summary>
+
+- 点击下方按钮观看视频 **《可以点一下封面吗？》**：  
+[观看视频](https://api.hucl.link/bfq/?url=https://www.hucl.link/src/可以点一下封面吗？.mp4&title=可以点一下封面吗？)
+
+- 【SING女团】《唐宫少女》舞蹈版MV（汉服版）
+<iframe src="https://www.hucl.link/App/player.php?hash=3f7f22e847cb179d41e3717b22632b5b" width="100%" height="100%" scrolling="no" frameborder="0"></iframe>
+
+- 淋雨一直走 - 张韶涵
+<iframe src="https://www.hucl.link/App/player.php?hash=a02f7d09cc7ea191b500834bb5686468" width="100%" height="70" scrolling="no" frameborder="0"></iframe>
+
+</details>
