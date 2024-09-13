@@ -73,8 +73,7 @@
 - 点击下方按钮观看视频 **《可以点一下封面吗？》**：  
 [观看视频](https://api.hucl.link/bfq/?url=https://www.hucl.link/src/可以点一下封面吗？.mp4&title=可以点一下封面吗？)
 
-- 【SING女团】《唐宫少女》舞蹈版MV（汉服版）
-<iframe src="https://www.hucl.link/App/player.php?hash=3f7f22e847cb179d41e3717b22632b5b" width="100%" height="100%" scrolling="no" frameborder="0"></iframe>
+- [【SING女团】《唐宫少女》舞蹈版MV（汉服版）](https://www.hucl.link/App/file.php?hash=3f7f22e847cb179d41e3717b22632b5b)
 
 - 淋雨一直走 - 张韶涵
 <iframe src="https://www.hucl.link/App/player.php?hash=a02f7d09cc7ea191b500834bb5686468" width="100%" height="70" scrolling="no" frameborder="0"></iframe>
