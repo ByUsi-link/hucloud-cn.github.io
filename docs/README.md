@@ -59,7 +59,7 @@
 
 ## 📜 版权声明
 
-&copy; 2023-至今 飓云盘/BySi  
+&copy; 2023-至今 飓云盘/ByU_Si  
 [湘ICP备2024047986号-1](https://beian.miit.gov.cn/)
 
 ---
